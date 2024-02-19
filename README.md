@@ -11,7 +11,7 @@ Javascript부터 웹 어플리케이션 배포까지, React와 프론트엔드 �
 ## 강의를 선택한 이유
 1. React와 TypeScript의 기본기를 다시 잡고,
 2. 상태관리에 대하여 신중하게 고민하며
-3. Redux와 React Hook의 기초를 다지기 위하여
+3. Redux와 React Hook의 기초를 다지기 위하여 강의를 선택함
 
 ## 배울 내용
 
